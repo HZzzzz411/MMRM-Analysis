@@ -51,7 +51,7 @@ output:
 <p style="font-size: 1.5em; color: black;">Subgroup Analysis: Age</p>
 ![](Age.png)
 
-
+ \
 <p style="font-size: 1.5em; color: black;">Subgroup Analysis: Depression Severity</p>
 ![](MADRS_Total_Score_Over_Time_by_Depression_Severity.png)
 
