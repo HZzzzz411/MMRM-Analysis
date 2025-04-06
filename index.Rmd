@@ -1,10 +1,38 @@
 ---
-title: "Code of The Effectiveness of Esketamine on Depression1 Alleviation with Metabolic Syndrome Based on Mixed2 Model for Repeated Measures3"
+title: "The Effectiveness of Esketamine on Depression1 Alleviation with Metabolic Syndrome Based on MMRM"
 output: 
   html_document:
-    theme: united
-    toc: true
-    toc_float: true
+    theme: cosmo
+    toc: false
 ---
 
-- [Code and Graph](Biostatistics-competition.html)
+ \
+
+- <span style="font-size: 2em;">[Code and Graph](Biostatistics-competition.html)</span>
+
+\
+
+
+<p style="font-size: 1.5em; color: black;">MADRS change over time:</p>
+![](MADRS_change_over_time_with_legend.png)
+
+ \
+
+ 
+<p style="font-size: 1.5em; color: black;">treatment effect(Day 28):</p>
+
+![](Day28_treatment_effect_with_legend.png)
+
+ \
+
+<p style="font-size: 1.5em; color: black;">Treatment effect forest plot:</p>
+
+![](Treatment_effect_forest_plot_with_legend.png)
+ \
+
+<p style="font-size: 1.5em; color: black;">Treatment significance heatmap:</p>
+![](Treatment_significance_heatmap_with_legend.png)
+ \
+
+<p style="font-size: 1.5em; color: black;">MMRM Model Diagnostic plots:</p>
+![](Model_diagnostics_with_legend.png)
