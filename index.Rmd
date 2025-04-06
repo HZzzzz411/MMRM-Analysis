@@ -2,7 +2,7 @@
 title: "The Effectiveness of Esketamine on Depression1 Alleviation with Metabolic Syndrome Based on MMRM"
 output: 
   html_document:
-    theme: cosmo
+    theme: readable
     toc: false
 ---
 
