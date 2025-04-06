@@ -1,0 +1,10 @@
+---
+title: "Code of The Effectiveness of Esketamine on Depression1 Alleviation with Metabolic Syndrome Based on Mixed2 Model for Repeated Measures3"
+output: 
+  html_document:
+    theme: united
+    toc: true
+    toc_float: true
+---
+
+- [Code and Graph](Biostatistics-competition.html)
