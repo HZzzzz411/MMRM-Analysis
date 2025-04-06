@@ -3,7 +3,8 @@ title: "The Effectiveness of Esketamine on Depression1 Alleviation with Metaboli
 output: 
   html_document:
     theme: readable
-    toc: false
+    toc: true
+    toc_float: true
 ---
 
  \
@@ -12,7 +13,7 @@ output:
 
  \
 
-- <span style="font-size: 2em;">[Codes of MMRM and Emmeans](Biostatistics-competition.html)</span>
+- <span style="font-size: 2em;">[Codes of Subgroup Analysis](Subgroups.html)</span>
 
  \
 
