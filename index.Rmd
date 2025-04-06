@@ -3,8 +3,7 @@ title: "The Effectiveness of Esketamine on Depression1 Alleviation with Metaboli
 output: 
   html_document:
     theme: readable
-    toc: true
-    toc_float: true
+    toc: false
 ---
 
  \
