@@ -8,31 +8,58 @@ output:
 
  \
 
-- <span style="font-size: 2em;">[Code and Graph](Biostatistics-competition.html)</span>
+- <span style="font-size: 2em;">[Codes of MMRM and Emmeans](Biostatistics-competition.html)</span>
 
-\
+ \
 
+- <span style="font-size: 2em;">[Codes of MMRM and Emmeans](Biostatistics-competition.html)</span>
 
-<p style="font-size: 1.5em; color: black;">MADRS change over time:</p>
+ \
+
+<p style="font-size: 1.5em; color: black;">Descriptive Analysis</p>
+![](dummy A.png)
+![](dummy B.png)
+![](dummy C.png)
+
+ \
+ 
+<p style="font-size: 1.5em; color: black;">MADRS Change Over Time:</p>
 ![](MADRS_change_over_time_with_legend.png)
 
  \
 
  
-<p style="font-size: 1.5em; color: black;">treatment effect(Day 28):</p>
+<p style="font-size: 1.5em; color: black;">Treatment Effect(Day 28):</p>
 
 ![](Day28_treatment_effect_with_legend.png)
 
  \
 
-<p style="font-size: 1.5em; color: black;">Treatment effect forest plot:</p>
+<p style="font-size: 1.5em; color: black;">Treatment Effect Forest Plot:</p>
 
 ![](Treatment_effect_forest_plot_with_legend.png)
  \
 
-<p style="font-size: 1.5em; color: black;">Treatment significance heatmap:</p>
+<p style="font-size: 1.5em; color: black;">Treatment Significance Heatmap:</p>
 ![](Treatment_significance_heatmap_with_legend.png)
  \
 
 <p style="font-size: 1.5em; color: black;">MMRM Model Diagnostic plots:</p>
 ![](Model_diagnostics_with_legend.png)
+
+
+<p style="font-size: 1.5em; color: black;">Subgroup Analysis: Age</p>
+![](Age.png)
+
+
+<p style="font-size: 1.5em; color: black;">Subgroup Analysis: Depression Severity</p>
+![](MADRS_Total_Score_Over_Time_by_Depression_Severity.png)
+
+
+
+
+
+
+
+
+
